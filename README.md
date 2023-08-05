@@ -4,10 +4,10 @@
  <br/>
 
 ## 🔭 I’m currently working on ...
-<div style="width:30px, height:auto">
-<a href = "https://github.com/GoLAB-Project">![에메랄드고래 1](https://github.com/richsubin/richsubin/assets/81276634/d63ed243-0bd0-4938-bbcc-3f2ccd708d95)</a>
-</div>
+<a href = "https://github.com/GoLAB-Project"><img width="233" alt="화면_캡처_2023-07-29_221210-removebg-preview" src="https://github.com/richsubin/richsubin/assets/81276634/7690b9b7-3527-45b4-869d-7f42044084f2"></a>
 
+
+<br><br><hr>
 
 # 💪Skills
 
