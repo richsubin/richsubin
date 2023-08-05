@@ -3,6 +3,10 @@
 <hr>
  <br/>
 
+## 🔭 I’m currently working on ...
+<a href = "https://github.com/GoLAB-Project">![에메랄드고래 1](https://github.com/richsubin/richsubin/assets/81276634/d63ed243-0bd0-4938-bbcc-3f2ccd708d95)</a>
+
+
 
 # 💪Skills
 
