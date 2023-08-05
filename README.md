@@ -25,7 +25,7 @@
 
 # 📬: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Velog-white?style=flat-square&logo=velog&link=https://velog.io/@richsubin)](https://velog.io/@richsubin)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richsubin411@gmail.com)](mailto:kimsh1691@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richsubin411@gmail.com)](mailto:richsubin411@gmail.com)
 
 <br><br><br><hr>
 
