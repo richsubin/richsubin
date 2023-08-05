@@ -5,7 +5,7 @@
 
 
 # 💪Skills
-### Platforms & Languages
+
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
@@ -21,12 +21,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Intellij](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
-
+<br><br>
 
 # 📬: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Velog-white?style=flat-square&logo=velog&link=https://velog.io/@richsubin)](https://velog.io/@richsubin)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richsubin411@gmail.com)](mailto:kimsh1691@gmail.com)
 
+<br><br><br><hr>
 
 ![richsubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=richsubin&show_icons=true&theme=radical)
 
