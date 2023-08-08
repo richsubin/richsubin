@@ -40,7 +40,7 @@ https://github.com/GoLAB-Project
 <br>
 <hr>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=richsubin411)](https://solved.ac/richsubin411/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=richsubin411)](https://solved.ac/profile/richsubin411)
 
 
 
