@@ -4,7 +4,8 @@
  <br/>
 
 ## 🔭 I’m currently working on ...
-<a href="https://github.com/GoLAB-Project"><img width="200" alt="고랩 프로젝트" src="https://github.com/richsubin/richsubin/assets/81276634/7690b9b7-3527-45b4-869d-7f42044084f2"><a>
+<img width="200" alt="고랩 프로젝트" src="https://github.com/richsubin/richsubin/assets/81276634/7690b9b7-3527-45b4-869d-7f42044084f2">
+https://github.com/GoLAB-Project
 
 
 
