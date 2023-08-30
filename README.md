@@ -4,10 +4,9 @@
  <br/>
 
 ## 🔭 I’m currently working on ...
-<img width="200" alt="고랩 프로젝트" src="https://github.com/richsubin/richsubin/assets/81276634/7690b9b7-3527-45b4-869d-7f42044084f2">
+<img width="200" alt="고랩 프로젝트" src="https://github.com/richsubin/richsubin/assets/81276634/9f96a82e-9cd7-410e-9a84-58d0ff60c997">
 
 https://github.com/GoLAB-Project
-
 
 
 <br><br><hr>
